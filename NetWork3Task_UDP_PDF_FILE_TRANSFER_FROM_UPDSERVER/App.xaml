@@ -1,0 +1,9 @@
+﻿<Application x:Class="NetWork3Task_UDP_PDF_FILE_TRANSFER_FROM_UPDSERVER.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:NetWork3Task_UDP_PDF_FILE_TRANSFER_FROM_UPDSERVER"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
